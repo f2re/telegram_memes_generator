@@ -1,0 +1,4 @@
+telethon
+dotenv
+pillow
+textwrap
